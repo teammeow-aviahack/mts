@@ -11,3 +11,7 @@ data/
 venv/
 
 *.csv
+*.xlsx
+
+!plan_hran.csv
+!data.csv
